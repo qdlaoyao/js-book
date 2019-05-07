@@ -9,7 +9,7 @@
 
 待续
 
-另外本系列也会在掘金同步发布，[请关注掘金收藏](https://juejin.im/collection/5ccfe1216fb9a0025a21dde3)
+另外本系列也会在掘金上同步发布，阅读体验相对好些，[请关注掘金收藏](https://juejin.im/collection/5ccfe1216fb9a0025a21dde3)
 
 要打赏的话，请加我微信：
 
